@@ -1,4 +1,5 @@
 # Login Webpage cypress tests
+![Tests](https://github.com/ChiNguyen2022/AutomatedTests)
 
 ## Prerequisites
 - Node is installed [Guide](https://nodejs.org/en/download/package-manager/)

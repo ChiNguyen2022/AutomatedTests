@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://loginWebpage",
+    "env": {
+        "testUser": "xyz@gmail.com",
+        "testPass": "xyzPass"
+    },
+    "viewportWidth": 1280,
+    "viewportHeight": 1028,
+    "defaultCommandTimeout": 10000,
+    "video": false,
+    "waitForAnimations": true,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": ".cypress-reporters.json"
+    }
+}
